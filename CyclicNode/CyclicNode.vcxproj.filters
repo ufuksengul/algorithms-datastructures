@@ -29,7 +29,7 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="MergeTwoLinkedLists.cpp">
+    <ClCompile Include="CyclicNode.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

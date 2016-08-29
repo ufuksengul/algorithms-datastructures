@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{760E7C78-5E20-4DA8-9F0E-6A98AE058588}</ProjectGuid>
+    <ProjectGuid>{DCFCF768-2C10-46EF-81FF-2617CA508103}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>MergeTwoLinkedLists</RootNamespace>
+    <RootNamespace>CyclicNode</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -149,7 +149,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="MergeTwoLinkedLists.cpp" />
+    <ClCompile Include="CyclicNode.cpp" />
     <ClCompile Include="stdafx.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
